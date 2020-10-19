@@ -47,7 +47,7 @@ A：此项目来源于作者早期的研究和调试代码，代码缺少一定�
 #### 相关资源
 
 - [Android配置教程](https://www.jianshu.com/p/94784c3bf2c1)
-- [python配置教程](https://www.jianshu.com/p/7ab673abeaae)
+- [python配置教程](https://www.jianshu.com/p/f80a28a670e2)
 - [Linux下C++配置教程](https://blog.csdn.net/lu_linux/article/details/88707421)
 - [带UI界面的工程](https://pan.baidu.com/s/1cNWpK6)(感谢群内小伙伴的工作)。
 - [端到端(多标签分类)训练代码](https://github.com/LCorleone/hyperlpr-train_e2e)(感谢群内小伙伴的工作)。
